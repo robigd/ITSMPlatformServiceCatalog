@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Report Incident">508acd8adbd200108e22b08039961975</sc_cat_item>
+        <sc_catalog display_value="Platform Services">3b06acc6db1200108e22b0803996194a</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-13 17:53:34</sys_created_on>
+        <sys_id>d79acd8adbd200108e22b0803996196e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Platform Services.Report Incident</sys_name>
+        <sys_package display_value="ITSM Platform: Service Catalog" source="x_22837_itsm_sc">1ee5e8c6db1200108e22b0803996191c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_d79acd8adbd200108e22b0803996196e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-13 17:53:34</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

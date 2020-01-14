@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="4ca459d2db5200108e22b08039961921" sys_domain="global" table="cmdb_application_product_model" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-14 13:15:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c4a459d2db5200108e22b0803996192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_application_product_model" name="cmdb_application_product_model" sys_domain="global" view="Default view">4ca459d2db5200108e22b08039961921</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_application_product_model" sys_domain="global" view="Default view">44a459d2db5200108e22b08039961928</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-14 13:15:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-14 13:15:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00a459d2db5200108e22b08039961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_application_product_model" name="cmdb_application_product_model" sys_domain="global" view="Default view">4ca459d2db5200108e22b08039961921</sys_ui_form>
+            <sys_ui_section caption="General" display_value="General" name="cmdb_application_product_model" sys_domain="global" view="Default view">c0a459d2db5200108e22b0803996192e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-14 13:15:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-14 13:15:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cca459d2db5200108e22b0803996192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_application_product_model" name="cmdb_application_product_model" sys_domain="global" view="Default view">4ca459d2db5200108e22b08039961921</sys_ui_form>
+            <sys_ui_section caption="Compatibles" display_value="Compatibles" name="cmdb_application_product_model" sys_domain="global" view="Default view">c8a459d2db5200108e22b0803996192b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-14 13:15:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-14 13:15:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8a459d2db5200108e22b08039961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_application_product_model" name="cmdb_application_product_model" sys_domain="global" view="Default view">4ca459d2db5200108e22b08039961921</sys_ui_form>
+            <sys_ui_section caption="Assets" display_value="Assets" name="cmdb_application_product_model" sys_domain="global" view="Default view">cca459d2db5200108e22b08039961923</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-14 13:15:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-14 13:15:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08a459d2db5200108e22b08039961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_application_product_model" name="cmdb_application_product_model" sys_domain="global" view="Default view">4ca459d2db5200108e22b08039961921</sys_ui_form>
+            <sys_ui_section caption="Configuration items" display_value="Configuration items" name="cmdb_application_product_model" sys_domain="global" view="Default view">04a459d2db5200108e22b08039961934</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-14 13:15:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>cmdb_application_product_model</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-14 13:15:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4ca459d2db5200108e22b08039961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmdb_application_product_model</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ITSM Platform: Service Catalog" source="x_22837_itsm_sc">1ee5e8c6db1200108e22b0803996191c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_4ca459d2db5200108e22b08039961921</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-14 13:15:47</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
