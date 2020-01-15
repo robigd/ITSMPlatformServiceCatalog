@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item/>
+        <catalog_variable>IO:759f879edb9a00108e22b0803996190a</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>kevin.schaub</sys_created_by>
+        <sys_created_on>2020-01-15 17:30:03</sys_created_on>
+        <sys_id>e068176edb5e40108e22b0803996198e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fte_sponsor_email</sys_name>
+        <sys_package display_value="ITSM Platform: Service Catalog" source="x_22837_itsm_sc">1ee5e8c6db1200108e22b0803996191c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_e068176edb5e40108e22b0803996198e</sys_update_name>
+        <sys_updated_by>kevin.schaub</sys_updated_by>
+        <sys_updated_on>2020-01-15 17:30:03</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Sponsor Email Read Only">26385b6adb5e40108e22b08039961986</ui_policy>
+        <variable>fte_sponsor_email</variable>
+        <variable_set display_value="Approver Information">c3ec8b5adb9a00108e22b08039961983</variable_set>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>

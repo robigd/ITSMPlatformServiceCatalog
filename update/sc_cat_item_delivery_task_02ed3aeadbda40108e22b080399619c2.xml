@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_delivery_task">
+    <sc_cat_item_delivery_task action="INSERT_OR_UPDATE">
+        <assigned_to/>
+        <condition/>
+        <condition_script/>
+        <delivery_plan/>
+        <delivery_time/>
+        <generation_script/>
+        <group display_value="Network" name="Network">287ebd7da9fe198100f92cc8d1d2154e</group>
+        <instructions>MID Server minimum suggested configuration:&#13;
+&#13;
+The following configuration is the minimum suggested configuration for a MID Server.&#13;
+&#13;
+8GB of available RAM per MID Server&#13;
+2GHZ CPU with a multicore CPU&#13;
+4GB of disk space per MID server&#13;
+1024MB of memory. For instructions on configuring the MID Server memory allocation, see Set the MID Server JVM memory size.&#13;
+Can be installed with other services, depending on the server utilization and resource availability</instructions>
+        <name>Procure Server</name>
+        <order>100</order>
+        <short_description>Procure Server</short_description>
+        <sla/>
+        <sys_class_name>sc_cat_item_delivery_task</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-15 15:37:01</sys_created_on>
+        <sys_id>02ed3aeadbda40108e22b080399619c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Procure Server</sys_name>
+        <sys_package display_value="ITSM Platform: Service Catalog" source="x_22837_itsm_sc">1ee5e8c6db1200108e22b0803996191c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</sys_scope>
+        <sys_update_name>sc_cat_item_delivery_task_02ed3aeadbda40108e22b080399619c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-15 15:37:01</sys_updated_on>
+        <work_notes/>
+    </sc_cat_item_delivery_task>
+</record_update>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_delivery_plan">
+    <sc_cat_item_delivery_plan action="DELETE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <calendar/>
+        <condition/>
+        <name>MID Server Request Fulfillment</name>
+        <order>100</order>
+        <parent_table>sc_req_item</parent_table>
+        <script/>
+        <short_description>MID Server Request Fulfillment</short_description>
+        <sys_class_name>sc_cat_item_delivery_plan</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-15 15:34:09</sys_created_on>
+        <sys_id>8f8d72eadbda40108e22b080399619f2</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>MID Server Request Fulfillment</sys_name>
+        <sys_package display_value="ITSM Platform: Service Catalog" source="x_22837_itsm_sc">1ee5e8c6db1200108e22b0803996191c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</sys_scope>
+        <sys_update_name>sc_cat_item_delivery_plan_8f8d72eadbda40108e22b080399619f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-15 15:52:18</sys_updated_on>
+        <task_table>sc_task</task_table>
+        <total_delivery_time>1970-01-01 00:00:00</total_delivery_time>
+    </sc_cat_item_delivery_plan>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</application>
+        <file_path/>
+        <instance_id>3a18c5e3dbdffb008aea21c405961904</instance_id>
+        <instance_name>dev92118</instance_name>
+        <name>sc_cat_item_delivery_plan_8f8d72eadbda40108e22b080399619f2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_delivery_plan"><sc_cat_item_delivery_plan action="INSERT_OR_UPDATE"><active>true</active><advanced>false</advanced><calendar/><condition/><name>MID Server Request Fulfillment</name><order>100</order><parent_table>sc_req_item</parent_table><script/><short_description>MID Server Request Fulfillment</short_description><sys_class_name>sc_cat_item_delivery_plan</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-15 15:34:09</sys_created_on><sys_id>8f8d72eadbda40108e22b080399619f2</sys_id><sys_mod_count>3</sys_mod_count><sys_name>MID Server Request Fulfillment</sys_name><sys_package display_value="ITSM Platform: Service Catalog" source="x_22837_itsm_sc">1ee5e8c6db1200108e22b0803996191c</sys_package><sys_policy/><sys_scope display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</sys_scope><sys_update_name>sc_cat_item_delivery_plan_8f8d72eadbda40108e22b080399619f2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-15 15:52:18</sys_updated_on><task_table>sc_task</task_table><total_delivery_time>1970-01-01 00:00:00</total_delivery_time></sc_cat_item_delivery_plan></record_update>]]></payload>
+        <payload_hash>788356012</payload_hash>
+        <record_name>MID Server Request Fulfillment</record_name>
+        <reverted_from/>
+        <source>12e5e8c6db1200108e22b0803996191f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-15 15:52:18</sys_created_on>
+        <sys_id>9a02c362db1e40108e22b08039961929</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fa9e7cd530000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-15 15:52:18</sys_updated_on>
+        <type>Execution Plan</type>
+        <update_guid>1602c362921e4010e8ebe93e91c90629</update_guid>
+        <update_guid_history>1602c362921e4010e8ebe93e91c90629:788356012,6ed0cbee11da4010749536969de66e5f:1340326790,128e762e83da4010111df7ef5df0989a:788356012,28ed72ea95da40102ee2b2234ac1c2f8:1340326790</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="MID Server Request Fulfillment">1ae6afaedb9e40108e22b08039961996</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-15 18:33:25</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_delivery_plan">sc_cat_item_delivery_plan</sys_db_object>
+        <sys_id>3f4aa9c4855345a89900c17036296a04</sys_id>
+        <sys_metadata>8f8d72eadbda40108e22b080399619f2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MID Server Request Fulfillment</sys_name>
+        <sys_package display_value="ITSM Platform: Service Catalog" source="x_22837_itsm_sc">1ee5e8c6db1200108e22b0803996191c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</sys_scope>
+        <sys_scope_delete display_value="">80c111973e20430f85ce91fe4307c591</sys_scope_delete>
+        <sys_update_name>sc_cat_item_delivery_plan_8f8d72eadbda40108e22b080399619f2</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_delivery_plan_8f8d72eadbda40108e22b080399619f2">9a02c362db1e40108e22b08039961929</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-15 18:33:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

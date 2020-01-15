@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Report ServiceNow Incident">3aec5e52dbd600108e22b080399619fb</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>kevin.schaub</sys_created_by>
+        <sys_created_on>2020-01-14 18:32:39</sys_created_on>
+        <sys_id>512d9292dbd600108e22b08039961972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Report ServiceNow Incident</sys_name>
+        <sys_package display_value="ITSM Platform: Service Catalog" source="x_22837_itsm_sc">1ee5e8c6db1200108e22b0803996191c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_512d9292dbd600108e22b08039961972</sys_update_name>
+        <sys_updated_by>kevin.schaub</sys_updated_by>
+        <sys_updated_on>2020-01-14 18:32:39</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</application>
+        <file_path/>
+        <instance_id>3a18c5e3dbdffb008aea21c405961904</instance_id>
+        <instance_name>dev92118</instance_name>
+        <name>sc_cat_item_catalog_512d9292dbd600108e22b08039961972</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Report ServiceNow Incident">3aec5e52dbd600108e22b080399619fb</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>kevin.schaub</sys_created_by><sys_created_on>2020-01-14 18:32:39</sys_created_on><sys_id>512d9292dbd600108e22b08039961972</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Report ServiceNow Incident</sys_name><sys_package display_value="ITSM Platform: Service Catalog" source="x_22837_itsm_sc">1ee5e8c6db1200108e22b0803996191c</sys_package><sys_policy/><sys_scope display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</sys_scope><sys_update_name>sc_cat_item_catalog_512d9292dbd600108e22b08039961972</sys_update_name><sys_updated_by>kevin.schaub</sys_updated_by><sys_updated_on>2020-01-14 18:32:39</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1047135015</payload_hash>
+        <record_name>Service Catalog.Report ServiceNow Incident</record_name>
+        <reverted_from/>
+        <source>12e5e8c6db1200108e22b0803996191f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>kevin.schaub</sys_created_by>
+        <sys_created_on>2020-01-14 18:32:39</sys_created_on>
+        <sys_id>5d2d9292dbd600108e22b08039961974</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fa5543f020000001</sys_recorded_at>
+        <sys_updated_by>kevin.schaub</sys_updated_by>
+        <sys_updated_on>2020-01-14 18:32:39</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>952d929269d6001000289f3f40a66774</update_guid>
+        <update_guid_history>952d929269d6001000289f3f40a66774:1047135015</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Report ServiceNow Incident">54fa5beedb5e40108e22b08039961956</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>kevin.schaub</sys_created_by>
+        <sys_created_on>2020-01-15 17:41:07</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>8f4fd4c95cc2400cb3eab572c88995a4</sys_id>
+        <sys_metadata>512d9292dbd600108e22b08039961972</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Report ServiceNow Incident</sys_name>
+        <sys_package display_value="ITSM Platform: Service Catalog" source="x_22837_itsm_sc">1ee5e8c6db1200108e22b0803996191c</sys_package>
+        <sys_parent display_value="">3aec5e52dbd600108e22b080399619fb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</sys_scope>
+        <sys_scope_delete display_value="">80c111973e20430f85ce91fe4307c591</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_512d9292dbd600108e22b08039961972</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_512d9292dbd600108e22b08039961972">5d2d9292dbd600108e22b08039961974</sys_update_version>
+        <sys_updated_by>kevin.schaub</sys_updated_by>
+        <sys_updated_on>2020-01-15 17:41:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
