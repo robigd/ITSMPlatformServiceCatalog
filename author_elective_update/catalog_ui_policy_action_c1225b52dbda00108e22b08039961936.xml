@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item/>
+        <catalog_variable>IO:091e0fdadb9a00108e22b080399619ac</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>kevin.schaub</sys_created_by>
+        <sys_created_on>2020-01-14 22:25:32</sys_created_on>
+        <sys_id>c1225b52dbda00108e22b08039961936</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fte_sponsor_name</sys_name>
+        <sys_package display_value="ITSM Platform: Service Catalog" source="x_22837_itsm_sc">1ee5e8c6db1200108e22b0803996191c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_c1225b52dbda00108e22b08039961936</sys_update_name>
+        <sys_updated_by>kevin.schaub</sys_updated_by>
+        <sys_updated_on>2020-01-14 22:25:32</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Questions 2 and 3 auto populated if 1 is yes">23d1d352dbda00108e22b080399619d8</ui_policy>
+        <variable>fte_sponsor_name</variable>
+        <variable_set display_value="Approver Information">c3ec8b5adb9a00108e22b08039961983</variable_set>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</application>
+        <file_path/>
+        <instance_id>3a18c5e3dbdffb008aea21c405961904</instance_id>
+        <instance_name>dev92118</instance_name>
+        <name>catalog_ui_policy_action_c1225b52dbda00108e22b08039961936</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item/><catalog_variable>IO:091e0fdadb9a00108e22b080399619ac</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>kevin.schaub</sys_created_by><sys_created_on>2020-01-14 22:25:32</sys_created_on><sys_id>c1225b52dbda00108e22b08039961936</sys_id><sys_mod_count>0</sys_mod_count><sys_name>fte_sponsor_name</sys_name><sys_package display_value="ITSM Platform: Service Catalog" source="x_22837_itsm_sc">1ee5e8c6db1200108e22b0803996191c</sys_package><sys_policy/><sys_scope display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</sys_scope><sys_update_name>catalog_ui_policy_action_c1225b52dbda00108e22b08039961936</sys_update_name><sys_updated_by>kevin.schaub</sys_updated_by><sys_updated_on>2020-01-14 22:25:32</sys_updated_on><table/><ui_policy display_value="Questions 2 and 3 auto populated if 1 is yes">23d1d352dbda00108e22b080399619d8</ui_policy><variable>fte_sponsor_name</variable><variable_set display_value="Approver Information">c3ec8b5adb9a00108e22b08039961983</variable_set><visible>ignore</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1747048239</payload_hash>
+        <record_name>fte_sponsor_name</record_name>
+        <reverted_from/>
+        <source>12e5e8c6db1200108e22b0803996191f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>kevin.schaub</sys_created_by>
+        <sys_created_on>2020-01-14 22:25:32</sys_created_on>
+        <sys_id>f0725752dbda00108e22b08039961924</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fa62976450000001</sys_recorded_at>
+        <sys_updated_by>kevin.schaub</sys_updated_by>
+        <sys_updated_on>2020-01-14 22:25:32</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>3c7257525cda0010ff2e4d832110a123</update_guid>
+        <update_guid_history>3c7257525cda0010ff2e4d832110a123:-1747048239</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="fte_sponsor_name">d482df52dbda00108e22b080399619fe</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>kevin.schaub</sys_created_by>
+        <sys_created_on>2020-01-14 22:25:46</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>4422376a677b4be9a96b432b58aa4711</sys_id>
+        <sys_metadata>c1225b52dbda00108e22b08039961936</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fte_sponsor_name</sys_name>
+        <sys_package display_value="ITSM Platform: Service Catalog" source="x_22837_itsm_sc">1ee5e8c6db1200108e22b0803996191c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</sys_scope>
+        <sys_scope_delete display_value="">80c111973e20430f85ce91fe4307c591</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_c1225b52dbda00108e22b08039961936</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_c1225b52dbda00108e22b08039961936">f0725752dbda00108e22b08039961924</sys_update_version>
+        <sys_updated_by>kevin.schaub</sys_updated_by>
+        <sys_updated_on>2020-01-14 22:25:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
