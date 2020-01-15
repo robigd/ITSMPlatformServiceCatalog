@@ -6,7 +6,7 @@
         <applies_sc_task>false</applies_sc_task>
         <applies_target_record>false</applies_target_record>
         <applies_to>set</applies_to>
-        <catalog_conditions>IO:9ecd2ee6db9a40108e22b08039961932ISNOTEMPTY^EQ</catalog_conditions>
+        <catalog_conditions/>
         <catalog_item/>
         <conditions/>
         <description/>
@@ -18,46 +18,32 @@
         <on_load>true</on_load>
         <order>100</order>
         <reverse_if_false>true</reverse_if_false>
-        <run_scripts>true</run_scripts>
+        <run_scripts>false</run_scripts>
         <script_false><![CDATA[function onCondition() {
 
 }]]></script_false>
         <script_true><![CDATA[function onCondition() {
-    g_form.getReference('requested_for_full_name', populateRecordIncident);
 
-    function populateRecordIncident(info) {
-        if (info.email != '') {
-            g_form.setValue('requested_for_email_address', info.email);
-        } else {
-            g_form.clearValue('requested_for_email_address');
-        }
-
-        if (info.phone != '') {
-            g_form.setValue('requested_for_phone_number', info.phone);
-        } else {
-            g_form.clearValue('requested_for_phone_number');
-        }
-    }
 }]]></script_true>
         <set_values/>
-        <short_description>Auto Populate Report Incident Fields</short_description>
+        <short_description>Read Only Email and Phone</short_description>
         <sys_class_name>catalog_ui_policy</sys_class_name>
         <sys_created_by>kevin.schaub</sys_created_by>
-        <sys_created_on>2020-01-15 19:28:52</sys_created_on>
+        <sys_created_on>2020-01-15 20:56:34</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>999e1b66db9e40108e22b08039961944</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Auto Populate Report Incident Fields</sys_name>
+        <sys_id>929704b2db9280108e22b0803996196a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Read Only Email and Phone</sys_name>
         <sys_overrides/>
         <sys_package display_value="ITSM Platform: Service Catalog" source="x_22837_itsm_sc">1ee5e8c6db1200108e22b0803996191c</sys_package>
         <sys_policy/>
         <sys_scope display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</sys_scope>
-        <sys_update_name>catalog_ui_policy_999e1b66db9e40108e22b08039961944</sys_update_name>
+        <sys_update_name>catalog_ui_policy_929704b2db9280108e22b0803996196a</sys_update_name>
         <sys_updated_by>kevin.schaub</sys_updated_by>
-        <sys_updated_on>2020-01-15 20:58:30</sys_updated_on>
+        <sys_updated_on>2020-01-15 20:56:34</sys_updated_on>
         <table/>
-        <ui_type>10</ui_type>
+        <ui_type>0</ui_type>
         <variable_set display_value="Record Incident Contact Information">56dc2ea6db9a40108e22b08039961937</variable_set>
         <view/>
     </catalog_ui_policy>

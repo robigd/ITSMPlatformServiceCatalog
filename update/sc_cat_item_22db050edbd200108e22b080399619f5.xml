@@ -12,7 +12,7 @@
         <description/>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
-        <flow_designer_flow display_value="ITSM Platform - Service Catalog">d4f82f62dbde40108e22b0803996191f</flow_designer_flow>
+        <flow_designer_flow display_value="ITSM Platform - Service Catalog - MID Server Request">d4f82f62dbde40108e22b0803996191f</flow_designer_flow>
         <group/>
         <hide_sp>false</hide_sp>
         <icon>d6fbc90edbd200108e22b080399619db</icon>

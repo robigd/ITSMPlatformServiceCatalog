@@ -59,23 +59,23 @@
         <sys_created_by>kevin.schaub</sys_created_by>
         <sys_created_on>2020-01-15 17:38:14</sys_created_on>
         <sys_id>ca2a57eedb5e40108e22b08039961964</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Does the user have a valid VAR?</sys_name>
         <sys_package display_value="ITSM Platform: Service Catalog" source="x_22837_itsm_sc">1ee5e8c6db1200108e22b0803996191c</sys_package>
         <sys_policy/>
         <sys_scope display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</sys_scope>
         <sys_update_name>item_option_new_ca2a57eedb5e40108e22b08039961964</sys_update_name>
         <sys_updated_by>kevin.schaub</sys_updated_by>
-        <sys_updated_on>2020-01-15 17:38:14</sys_updated_on>
+        <sys_updated_on>2020-01-15 20:55:34</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>6</type>
+        <type>1</type>
         <ui_page/>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <validate_regex/>
         <variable_name/>
-        <variable_set display_value="Contact Information">56dc2ea6db9a40108e22b08039961937</variable_set>
+        <variable_set display_value="Record Incident Contact Information">56dc2ea6db9a40108e22b08039961937</variable_set>
         <variable_width/>
         <visibility>1</visibility>
         <visible_bundle>true</visible_bundle>

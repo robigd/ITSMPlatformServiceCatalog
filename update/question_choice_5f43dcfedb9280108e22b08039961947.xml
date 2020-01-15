@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>0</misc>
+        <order>400</order>
+        <question display_value="How Many Users Affected">726298bedb9280108e22b080399619e3</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>kevin.schaub</sys_created_by>
+        <sys_created_on>2020-01-15 21:47:26</sys_created_on>
+        <sys_id>5f43dcfedb9280108e22b08039961947</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Single</sys_name>
+        <sys_package display_value="ITSM Platform: Service Catalog" source="x_22837_itsm_sc">1ee5e8c6db1200108e22b0803996191c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</sys_scope>
+        <sys_update_name>question_choice_5f43dcfedb9280108e22b08039961947</sys_update_name>
+        <sys_updated_by>kevin.schaub</sys_updated_by>
+        <sys_updated_on>2020-01-15 21:47:26</sys_updated_on>
+        <text>Single</text>
+        <value>Single</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=5f43dcfedb9280108e22b08039961947"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>5f43dcfedb9280108e22b08039961947</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>kevin.schaub</sys_created_by>
+        <sys_created_on>2020-01-15 21:47:26</sys_created_on>
+        <sys_id>145354fedb9280108e22b0803996190a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>kevin.schaub</sys_updated_by>
+        <sys_updated_on>2020-01-15 21:47:26</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>5f43dcfedb9280108e22b08039961947</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>kevin.schaub</sys_created_by>
+        <sys_created_on>2020-01-15 21:47:26</sys_created_on>
+        <sys_id>d85354fedb9280108e22b08039961909</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>kevin.schaub</sys_updated_by>
+        <sys_updated_on>2020-01-15 21:47:26</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

@@ -75,7 +75,7 @@
         <use_reference_qualifier>simple</use_reference_qualifier>
         <validate_regex/>
         <variable_name/>
-        <variable_set display_value="Contact Information">56dc2ea6db9a40108e22b08039961937</variable_set>
+        <variable_set display_value="Record Incident Contact Information">56dc2ea6db9a40108e22b08039961937</variable_set>
         <variable_width/>
         <visibility>1</visibility>
         <visible_bundle>true</visible_bundle>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item/>
+        <catalog_variable>IO:cf860832db9280108e22b080399619a3</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>kevin.schaub</sys_created_by>
+        <sys_created_on>2020-01-15 20:53:24</sys_created_on>
+        <sys_id>08e60472db9280108e22b080399619d0</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>user_s_opennet_id</sys_name>
+        <sys_package display_value="ITSM Platform: Service Catalog" source="x_22837_itsm_sc">1ee5e8c6db1200108e22b0803996191c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_08e60472db9280108e22b080399619d0</sys_update_name>
+        <sys_updated_by>kevin.schaub</sys_updated_by>
+        <sys_updated_on>2020-01-15 20:54:44</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Opennet ID Visible">89b68c32db9280108e22b08039961999</ui_policy>
+        <variable>user_s_opennet_id</variable>
+        <variable_set display_value="Record Incident Contact Information">56dc2ea6db9a40108e22b08039961937</variable_set>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
