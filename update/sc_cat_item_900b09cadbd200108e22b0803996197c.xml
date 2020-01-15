@@ -12,6 +12,7 @@
         <description><![CDATA[<p><span style="font-size: small;">This service provides the ability to request a new application scope in ServiceNow.</span></p>]]></description>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
+        <flow_designer_flow/>
         <group/>
         <hide_sp>false</hide_sp>
         <icon>ad2b410edbd200108e22b08039961901</icon>

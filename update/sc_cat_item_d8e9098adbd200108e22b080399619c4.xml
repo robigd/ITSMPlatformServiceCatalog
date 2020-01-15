@@ -12,6 +12,7 @@
         <description/>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
+        <flow_designer_flow/>
         <group/>
         <hide_sp>false</hide_sp>
         <icon>b3f901c2dbd200108e22b0803996190a</icon>
