@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>300</order>
+        <sc_cat_item display_value="Request Instance Access">c47bc10edbd200108e22b08039961923</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>kevin.schaub</sys_created_by>
+        <sys_created_on>2020-01-16 16:34:58</sys_created_on>
+        <sys_id>416514cfdb16c0108e22b080399619ae</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Detailed Information.Request Instance Access</sys_name>
+        <sys_package display_value="ITSM Platform: Service Catalog" source="x_22837_itsm_sc">1ee5e8c6db1200108e22b0803996191c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</sys_scope>
+        <sys_update_name>io_set_item_416514cfdb16c0108e22b080399619ae</sys_update_name>
+        <sys_updated_by>kevin.schaub</sys_updated_by>
+        <sys_updated_on>2020-01-16 16:35:46</sys_updated_on>
+        <variable_set display_value="Detailed Information">189418cfdb16c0108e22b0803996199f</variable_set>
+    </io_set_item>
+</record_update>
