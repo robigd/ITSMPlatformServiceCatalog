@@ -9,7 +9,8 @@
         <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
-        <description/>
+        <description><![CDATA[<p><span style="font-size: small;">This service provides the ability to request a ServiceNow plugin to be activated</span></p>
+<ul style="list-style-position: inside;"><li style="font-size: small;">The Plugin list includes all inactive plugins available within ServiceNow</li><li style="font-size: small;">If a plugin has demo data available, it will be enabled if you select the Include Demo Data checkbox</li></ul>]]></description>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <flow_designer_flow/>
@@ -58,14 +59,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-13 15:32:15</sys_created_on>
         <sys_id>4fa6e04adb1200108e22b080399619de</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Enable ServiceNow Plugin</sys_name>
         <sys_package display_value="ITSM Platform: Service Catalog" source="x_22837_itsm_sc">1ee5e8c6db1200108e22b0803996191c</sys_package>
         <sys_policy/>
         <sys_scope display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</sys_scope>
         <sys_update_name>sc_cat_item_4fa6e04adb1200108e22b080399619de</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-13 16:53:28</sys_updated_on>
+        <sys_updated_on>2020-01-16 13:50:15</sys_updated_on>
         <template/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>

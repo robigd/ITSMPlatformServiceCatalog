@@ -9,7 +9,9 @@
         <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
-        <description/>
+        <description><![CDATA[<p><span style="font-size: 12pt;">This request is for development access to IRM&#39;s ServiceNow development instance</span></p>
+<p><span style="font-size: 12pt;">When requesting developer access to the SN environment, please ensure that the user has an Active OpenNet account or a valid visitor authorization request before submitting</span></p>
+<p><span style="font-size: 12pt;">Once this request is approved by your FTE lead, the SN platform team will work with you to create a scope in the IRM development instance</span></p>]]></description>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <flow_designer_flow/>
@@ -58,14 +60,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-13 17:57:28</sys_created_on>
         <sys_id>c47bc10edbd200108e22b08039961923</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Request Instance Access</sys_name>
         <sys_package display_value="ITSM Platform: Service Catalog" source="x_22837_itsm_sc">1ee5e8c6db1200108e22b0803996191c</sys_package>
         <sys_policy/>
         <sys_scope display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</sys_scope>
         <sys_update_name>sc_cat_item_c47bc10edbd200108e22b08039961923</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-13 17:57:51</sys_updated_on>
+        <sys_updated_by>kevin.schaub</sys_updated_by>
+        <sys_updated_on>2020-01-16 15:39:35</sys_updated_on>
         <template/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
