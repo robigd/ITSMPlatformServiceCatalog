@@ -20,34 +20,23 @@
         <reverse_if_false>false</reverse_if_false>
         <run_scripts>true</run_scripts>
         <script_false><![CDATA[function onCondition() {
-    g_form.addInfoMessage("no");
+  
 }]]></script_false>
         <script_true><![CDATA[function onCondition() {
-	//alert("hi");
-	var user = g_user.getFullName();
-	alert(user);
+    var me = g_user.userID;
+    g_form.setValue('fte_sponsor_name', me);
+    g_form.getReference('fte_sponsor_name', populateEmail);
 
-	
-    g_form.setValue('fte_sponsor_name', user);
-	
-	function populateFTEApprover(info){
-		//Write field name of Approver variable in place of bold text
-
-
-}
-	}
-
-//     function populateFTEApprover(user) {
-// 		//set fte_sponsor_email to email of selected sponsor name if email is in table for that record
-//         if (user.email != '') {
-//             g_form.setValue('fte_sponsor_email', user.email);
-//         } else {
-//             g_form.clearValue('fte_sponsor_email');
-//         }
+    function populateEmail(user) {
+        if (user.email != '') {
+            g_form.setValue('fte_sponsor_email', user.email);
+        } else {
+            g_form.clearValue('requested_by_email');
+        }
+    }
 
 
-//     }
-]]></script_true>
+}]]></script_true>
         <set_values/>
         <short_description>Auto-Populate FTE Approver</short_description>
         <sys_class_name>catalog_ui_policy</sys_class_name>
@@ -56,7 +45,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>23d1d352dbda00108e22b080399619d8</sys_id>
-        <sys_mod_count>81</sys_mod_count>
+        <sys_mod_count>94</sys_mod_count>
         <sys_name>Auto-Populate FTE Approver</sys_name>
         <sys_overrides/>
         <sys_package display_value="ITSM Platform: Service Catalog" source="x_22837_itsm_sc">1ee5e8c6db1200108e22b0803996191c</sys_package>
@@ -64,7 +53,7 @@
         <sys_scope display_value="ITSM Platform: Service Catalog">1ee5e8c6db1200108e22b0803996191c</sys_scope>
         <sys_update_name>catalog_ui_policy_23d1d352dbda00108e22b080399619d8</sys_update_name>
         <sys_updated_by>kevin.schaub</sys_updated_by>
-        <sys_updated_on>2020-01-16 21:50:49</sys_updated_on>
+        <sys_updated_on>2020-01-17 19:39:38</sys_updated_on>
         <table/>
         <ui_type>10</ui_type>
         <variable_set display_value="Approver Information">c3ec8b5adb9a00108e22b08039961983</variable_set>
